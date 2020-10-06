@@ -8,9 +8,21 @@ html {
     border: double 2px slategray;
     border-radius: 20px;
 }
+.card-image,
 .image,
 .content{
     margin:15px;
+    display: flex;
+    align-content: center;
+}
+
+.navbar-menu{
+    background-color: rgb(230, 207, 230);
+}
+
+.card-footer{
+    background-color: rgb(230, 207, 230);
+    border-radius: 20px;
 }
 
 .hnm-logo{
